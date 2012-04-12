@@ -1,0 +1,18 @@
+Hangman Program Flow ~
+
+Start Game
+
+Display Splash Screen
+	Read in library (after player hits enter)
+
+Start the game
+	Display Interface
+	until either win or lose
+		Prompt user for letter
+		Check guess
+		Update the interface (depending on what happens)
+
+
+prompt for another game or exit
+
+
